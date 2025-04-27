@@ -18,8 +18,20 @@ The application allows users to **add**, **view**, **search**, and **delete** st
 ---
 
 ## 📸 Screenshots
+### 🏠 Main Window 
+![Main Window](screenshots/SDBMS%20Home%20Screen.png)
 
+### ➕ Adding a Student
+![Add Student](screenshots/SDBMS%20Add%20data.png)
 
+### 🔎 Search Student Data
+![Search Student](screenshots/SDBMS%20Search%20data.png)
+
+### ❌ Validation Errors
+![Validation Error](screenshots/SDBMS%20Validation.png)
+
+### 💻 Program Code View
+![Program Code](screenshots/Program_ss.png)
 ---
 
 ## 🛠️ Tech Stack
